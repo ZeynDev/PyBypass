@@ -173,7 +173,7 @@ ______
 </div>
 
 This library used multiple scripts from  [@YukkiSenpai](https://github.com/xcscxr) github profile and [@zevtyardt](https://github.com/zevtyardt/lk21) lk21 respository.
-
+Thanks [@Sanjitsinsha](https://github.com/sanjit-sinha).
 ------
 
   
